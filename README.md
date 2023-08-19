@@ -1,4 +1,4 @@
 # VlasovPoisson
 Detailed simulation of the Vlasov Poisson problem as a Hamiltonian system using the symplectic Stormer-Verlet technique. Particularly, modeling the Vlasov Poisson system can lead to the development of innovative, symplectic numerical and model reduction techniques for modeling space weather phenomena. However, current algorithms are difficult to access/understand if at all available to the general public, therefore, this algorithm was specifically developed with the entry-level user in mind. 
 
-Running the code is extremely easy; I recommend consulting the Vlasov Poisson technical report (also provided in this repository) prior to simulating the problem, then, simply download the two python scripts and click 'run' to generate the solution for 200 particles and one-dimensional landau damping.
+Running the code is extremely easy; I recommend consulting my Vlasov Poisson technical report (also provided in this repository) prior to simulating the problem, then, simply download the two python scripts and click 'run' to generate the solution for 200 particles and one-dimensional landau damping.
